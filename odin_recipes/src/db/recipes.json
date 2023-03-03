@@ -3,6 +3,8 @@
     {
       "title": "Carrot Cake Pancakes",
       "id": "1",
+      "path_name": "carrot_cake_pancake",
+      "Component": "CarrotCakePancakes",
       "summarry": {
         "prep": "15 mins",
         "activeTime": "35 mins",
@@ -102,6 +104,8 @@
     {
       "title": "Chicago-Style Hot Dog",
       "id": "2",
+      "path_name": "chicago_style_hot_dog",
+      "Component": "ChicagoStyleHotDog",
       "summarry": {
         "prep": "10 mins",
         "activeTime": "5 mins",
@@ -155,6 +159,8 @@
     {
       "title": "Tex-Mex Burger with Cajun Mayo",
       "id": "3",
+      "path_name": "tex_b_w_mayo",
+      "Component": "TexMexBurgerwithCajunMayo",
       "summarry": {
         "prep": "25 mins",
         "activeTime": "15 mins",
