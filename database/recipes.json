@@ -1,0 +1,220 @@
+{
+  "recipes": [
+    {
+      "title": "Carrot Cake Pancakes",
+      "id": "1",
+      "path_name": "carrot_cake_pancake",
+      "Component": "CarrotCakePancakes",
+      "summarry": {
+        "prep": "15 mins",
+        "activeTime": "35 mins",
+        "totalTime": "40 mins",
+        "servings": "4",
+        "yield": "8"
+      },
+      "description": "How does \"cake for breakfast\" sound? The spices in these pancakes take you right to the flavors of a carrot cake. They are drizzled with a thin frosting and topped with raisins, coconut flakes, nuts, and candied ginger.",
+      "cover_images": {
+        "cover_photo": "../assets/images/carrot_pancake/carrpc_cover.png",
+        "other_photos": []
+      },
+      "steps": [
+        {
+          "step_1": {
+            "step": "1",
+            "image": "../assets/images/step_1.png",
+            "description": "Gather all ingredients."
+          },
+
+          "step_2": {
+            "step": "2",
+            "image": "",
+            "description": "Prepare the Pancakes: Whisk together flour, baking powder, cinnamon, pumpkin pie spice, baking soda, and salt in a large bowl until combined. "
+          },
+          "step_3": {
+            "step": "3",
+            "image": "../assets/images/step_3.png",
+            "description": "Add buttermilk, brown sugar, egg, and vanilla; stir until just combined. Stir in carrots and melted butter until just combined. Set aside. "
+          },
+          "step_4": {
+            "step": "4",
+            "image": "../assets/images/step_5.png",
+            "description": "Prepare the Frosting: In a medium bowl, whisk together cream cheese, milk, powdered sugar, and vanilla until smooth. Set aside. "
+          },
+          "step_5": {
+            "step": "5",
+            "image": "",
+            "description": "Prepare the Topping: In a small bowl, stir together raisins, pecans, coconut, and ginger, if desired. Set aside. "
+          },
+          "step_6": {
+            "step": "6",
+            "image": "",
+            "description": " Heat a large nonstick skillet or griddle over medium. Grease skillet or griddle with butter. "
+          },
+          "step_7": {
+            "step": "7",
+            "image": "../assets/images/step_7.png",
+            "description": "Working in batches, scoop 1/4 cup batter per pancake into the skillet, being sure not to overcrowd skillet. Cook until bubbles begin to form on surface of pancakes and edges look dry, 2 to 3 minutes. Flip, and cook until fluffy and slightly firm, about 1 minute. Repeat with remaining batter, adding butter and adjusting heat as needed. "
+          },
+          "step_8": {
+            "step": "8",
+            "image": "../assets/images/step_8.png",
+            "description": "Divide pancakes evenly among 4 plates. Drizzle Pancakes evenly with Frosting, and sprinkle evenly with Topping. "
+          }
+        }
+      ],
+      "ingredients": [
+        {
+          "title": "Pancake",
+          "ingredient_details": [
+            "1 ¼ cups all-purpose flour",
+            "1 ½ teaspoons baking powder",
+            "1 teaspoon ground cinnamon",
+            "½ teaspoon pumpkin pie spice",
+            "½ teaspoon baking soda",
+            "¼ teaspoon table salt",
+            "¼ teaspoon table salt",
+            "1 cup whole buttermilk",
+            "¼ cup packed light brown sugar",
+            "1 large egg",
+            "1 teaspoon vanilla extract",
+            "¾ cup finely grated carrot",
+            "3 tablespoons unsalted butter, melted, plus more for griddle"
+          ]
+        },
+        {
+          "title": "Frosting",
+          "ingredient_details": [
+            "3 ounces cream cheese, softened",
+            "3 tablespoons toasted unsweetened coconut flakes",
+            "2 tablespoons powdered sugar",
+            "½ teaspoon vanilla extract"
+          ]
+        },
+        {
+          "title": "Topping",
+          "ingredient_details": [
+            "3 tablespoons golden raisins",
+            "3 tablespoons toasted unsweetened coconut flakes",
+            "1 tablespoon finely chopped candied ginger (Optional)"
+          ]
+        }
+      ]
+    },
+
+    {
+      "title": "Chicago-Style Hot Dog",
+      "id": "2",
+      "path_name": "chicago_style_hot_dog",
+      "Component": "ChicagoStyleHotDog",
+      "summarry": {
+        "prep": "10 mins",
+        "activeTime": "5 mins",
+        "totalTime": "15 mins",
+        "servings": "1",
+        "yield": ""
+      },
+      "description": "This hot dog is a Windy City classic and a big favorite with sports fans! The frank must be all-beef, the bun must be poppy seed, and the ingredients must be piled onto the bun in the order specified. And whatever you do, don't spoil the splendor of this Chicago dog with ketchup!",
+      "cover_images": {
+        "cover_photo": "../assets/images/chicago_style_hot_dog/cs_hot_dog_cover.png",
+        "other_photos": ["../assets/images/chicago_style_hot_dog/cs_hot_dog_cover2.png"]
+      },
+      "steps": [
+        {
+          "step_1": {
+            "step": "1",
+            "image": "../assets/images/chicago_style_hot_dog/step_1.png",
+            "description": "Bring a pot of water to a boil over high heat. Reduce heat to low, place hot dog in water, and cook until warmed through, about 5 minutes. Remove hot dog from water and set aside. "
+          },
+
+          "step_2": {
+            "step": "2",
+            "image": "../assets/images/chicago_style_hot_dog/step_2.png",
+            "description": "Place a steamer basket into the pot and steam poppy seed bun until warm, about 2 minutes."
+          },
+          "step_3": {
+            "step": "3",
+            "image": "../assets/images/chicago_style_hot_dog/step_2.png",
+            "description": "Place hot dog in steamed bun. Pile on toppings in this order: mustard, relish, onion, tomato, pickle, peppers, and celery salt. The tomato wedges should be nestled between hot dog and top of bun on one side. Place pickle between hot dog and bottom of bun on the other side. Don't even think about ketchup!"
+          }
+        }
+      ],
+      "ingredients": [
+        {
+          "title": "",
+          "ingredient_details": [
+            "1 all-beef hot dog",
+            "1 poppy seed hot dog bun",
+            "1 tablespoon yellow mustard",
+            "1 tablespoon sweet green pickle relish",
+            "1 tablespoon chopped onion",
+            "4 tomato wedges",
+            "1 dill pickle spear",
+            "2 sport peppers",
+            "1 dash celery salt"
+          ]
+        }
+      ]
+    },
+
+    {
+      "title": "Tex-Mex Burger with Cajun Mayo",
+      "id": "3",
+      "path_name": "tex_b_w_mayo",
+      "Component": "TexMexBurgerwithCajunMayo",
+      "summarry": {
+        "prep": "25 mins",
+        "activeTime": "15 mins",
+        "totalTime": "40 mins",
+        "servings": "4",
+        "yield": "4"
+      },
+      "description": "A jazzy way to spice up the boring basic burger that will tantalize your taste buds! Cajun spiced mayonnaise is the perfect complement to these spicy beef burgers.",
+      "cover_images": {
+        "cover_photo": "../assets/images/tex_mex_burger/tex_mex_cover.png",
+        "other_photos": [
+          "../assets/images/tex_mex_burger/tex_mex_cover2.png",
+          "../assets/images/tex_mex_burger/tex_mex_cover3.png"
+        ]
+      },
+      "steps": [
+        {
+          "step_1": {
+            "step": "1",
+            "image": "",
+            "description": " Preheat grill for medium-high heat. In a small bowl, mix together the mayonnaise and 1 teaspoon of Cajun seasoning. Set aside."
+          },
+
+          "step_2": {
+            "step": "2",
+            "image": "",
+            "description": "In a large bowl, mix together the ground sirloin, jalapeno pepper, onion, garlic, 1 tablespoon Cajun seasoning, and Worcestershire sauce using your hands. Divide into 4 balls, and flatten into patties."
+          },
+          "step_3": {
+            "step": "3",
+            "image": "",
+            "description": "Lightly oil the grilling surface, and place the patties on the grill. Cook for about 5 minutes per side, or until well done. During the last 2 minutes, lay a slice of cheese on top of each patty. Spread the seasoned mayonnaise onto the insides of the buns. Put burgers in the buns, and top with lettuce and tomato to serve."
+          }
+        }
+      ],
+      "ingredients": [
+        {
+          "title": "",
+          "ingredient_details": [
+            "½ cup mayonnaise",
+            "1 teaspoon Cajun seasoning",
+            "1 ⅓ pounds ground beef sirloin",
+            "1 jalapeno pepper, seeded and chopped",
+            "½ cup diced white onion",
+            "1 clove garlic, minced",
+            "1 tablespoon Cajun seasoning",
+            "1 teaspoon Worcestershire sauce",
+            "4 slices pepperjack cheese",
+            "4 hamburger buns, split",
+            "4 leaves lettuce",
+            "4 slices tomato"
+          ]
+        }
+      ]
+    }
+  ]
+}
